@@ -27,7 +27,7 @@ a = [1,2,3,4,5]
 random.shuffle(a)
 # this is permanent shuffling so we have to put value in variable (a). And this shuffle that values like we do card
 # output:[2,3,4,1,5]
-import.time
+# import.time this is not comment, it's purposely done to avoid bug.
 time.time()
 # this is time stamps, this tells about 1 jan to till this moment total seconds it tells us in real time
 time.ctime()
