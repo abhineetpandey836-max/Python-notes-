@@ -12,6 +12,6 @@
 # WHILE LOOP - A while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition. The while loop can be thought of as a repeating if statement. The while loop will continue to execute the block of code as long as the specified condition evaluates to True. Once the condition becomes False, the loop will terminate, and the program will continue with the next statement after the loop.
 number= int(input("Enter a number: "))
 i = 1
-while i<11:
+while i < 11:
     print(number, "*", i, "=", number*i)
     i+=1
